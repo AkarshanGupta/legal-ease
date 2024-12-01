@@ -77,7 +77,7 @@ The application supports multiple input methods:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/LegalEase.git
+https://github.com/AkarshanGupta/legal-ease.git
 
 # Install dependencies
 pip install -r requirements.txt

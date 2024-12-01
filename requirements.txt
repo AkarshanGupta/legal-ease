@@ -1,0 +1,10 @@
+gradio
+transformers
+torch
+accelerate
+bitsandbytes
+
+pillow
+pytesseract
+PyPDF2
+numpy

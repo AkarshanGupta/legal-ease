@@ -84,3 +84,6 @@ pip install -r requirements.txt
 
 # Set Hugging Face Token
 export HF_TOKEN='your_hugging_face_token'
+```
+
+# Output
